@@ -13,8 +13,8 @@ import ch.surya.jdbc.model.ParamDb;
 public class SetupDb implements InterfaceParamDb {
 
 	public ParamDb getSetupDB() {
-		ParamDb paramDb = new ParamDb("172.24.232.23", "uatstr",
-				InterfaceParamDb.PORT_ORACLE, "Concorde", "r1cky",
+		ParamDb paramDb = new ParamDb("172.13.121.12", "testDb",
+				InterfaceParamDb.PORT_ORACLE, "merahputih", "garuda",
 				InterfaceParamDb.DRIVER_ORACLE);
 
 		return paramDb;
