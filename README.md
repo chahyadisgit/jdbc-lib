@@ -9,3 +9,6 @@ Project ini hanya untuk mempermudah developer dalam melakukan koneksi & transaks
 
     1. Database setup
     2. DDL and DML
+
+## Status
+OnProgress
