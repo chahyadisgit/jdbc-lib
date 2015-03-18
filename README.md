@@ -7,5 +7,5 @@ Project ini hanya untuk mempermudah developer dalam melakukan koneksi & transaks
 
 ##Features:
 
-    Database setup
-    DDL and DML
+    1. Database setup
+    2. DDL and DML
